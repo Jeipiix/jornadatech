@@ -9,7 +9,7 @@ const CourseInfo = () => {
             Explore o Jornada Tech
           </h2>
           <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-            Aprenda programação do zero ao avançado, com aulas online, ao vivo, interativas, com suporte sempre que você precisar. abaixo esta tudo que vamos aprender no curso:
+            Aprenda programação do zero ao avançado, com aulas online, ao vivo, interativas, com suporte sempre que você precisar. abaixo está tudo que vamos aprender no curso:
           </p>
           
         </div>
@@ -49,7 +49,7 @@ const CourseInfo = () => {
                     Módulo Avançado
                   </h3>
                   <p className="mt-2 text-base text-gray-500">
-                   Voce ira desenvolver sua propria rede social com site e aplicativo mobile, alem de um banco de dados completo com firebase.
+                   Você ira desenvolver sua propria rede social com site e aplicativo mobile, além de um banco de dados completo com firebase.
                   </p>
                 </div>
               </div>

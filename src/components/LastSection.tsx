@@ -10,7 +10,7 @@ const LastSection = () => {
               Descubra o poder da programação e inicie sua jornada no mundo tech.
             </p>
             <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-100 sm:mt-4">
-              Para mais informações ou para agendar sua aula entre em contato via whatsapp pelo botão abaixo
+              Para mais informações ou para agendar sua aula, entre em contato via whatsapp pelo botão abaixo
             </p>
           </div>
   
